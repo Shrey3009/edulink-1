@@ -1,6 +1,6 @@
 # Edulink
 
-Edulink is a web-application which brings the best learning content that is available on YouTube. It aims at creating an ecosystem for students and budding developers, providing them the best content without involving the YouTube algorithm. 
+Edulink is a web-application which brings the best learning content that is available on YouTube. Its main purpose is to create an ecosystem for students and budding developers, providing them the best content without involving the YouTube algorithm. 
 
 ![image](https://user-images.githubusercontent.com/67017933/149094668-54f23a54-102c-43cb-844b-569923de3c99.png)
 You get the best learning content from YouTube on the Home Page, a collection of handpicked videos from our admins.
